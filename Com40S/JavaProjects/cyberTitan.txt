@@ -1,0 +1,46 @@
+CyberTitan Overview:
+cybertitan.ca 
+	-for competition info
+
+cybertitan team (ages 12 - 18)
+	- all girl teams FREE
+
+login as justin trudeau
+	-password: canadaisthebest
+		- if you change it WRITE IT DOWN
+	- NEW PASSWORD: 1Mm1gRati0n
+
+do not delete any users, make sure you DISABLE users
+
+read the READ ME file
+
+open score report (may take time to update, don't freak out if pts dont show up right away)
+
+places to look:
+	- control panel (in st menu)
+		- programs & features
+		- windows firewall
+		- windows updates (don't need to actually run the update, just schedule it for later)
+
+	- microsoft management console
+		- search for compmgmt.msc
+
+	- local security policy
+		- search for secpol.msc
+
+	- microsoft services
+		- services.msc
+
+if you get 20/20, take a print scrn (screenshot)
+
+do NOT remove C:\CyberPariot Score Report
+
+do NOT remove score report (including .NET framework)
+
+do NOT remove VM tools
+
+stuff we did:
+
+we disabled: Brian Mulroney, Jean Chretien, Kim Campbell, Paul Martin, Stephen Harper, CyberTitan
+	- go into cmd (run with administrator)
+	- type: net user "Brian Mulroney" /active:no

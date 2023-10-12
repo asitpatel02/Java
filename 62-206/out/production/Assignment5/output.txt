@@ -1,0 +1,22 @@
+BubbleSort:     4 elements in 0ms.
+MergeSort:      4 elements in 0ms.
+
+BubbleSort:     16 elements in 0ms.
+MergeSort:      16 elements in 0ms.
+
+BubbleSort:     64 elements in 0ms.
+MergeSort:      64 elements in 0ms.
+
+BubbleSort:     256 elements in 15ms.
+MergeSort:      256 elements in 0ms.
+
+BubbleSort:     1024 elements in 32ms.
+MergeSort:      1024 elements in 0ms.
+
+BubbleSort:     4096 elements in 343ms.
+MergeSort:      4096 elements in 16ms.
+
+BubbleSort:     16384 elements in 6016ms.
+MergeSort:      16384 elements in 78ms.
+
+Press any key to continue . . .

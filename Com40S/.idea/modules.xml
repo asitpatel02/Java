@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 4/AwardApplication/AwardApplication.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 4/AwardApplication/AwardApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 5/BabyBird/BabyBird.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 5/BabyBird/BabyBird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 1/BinaryNumber/BinaryNumber.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 1/BinaryNumber/BinaryNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/GUI/BouncingBall/BouncingBall.iml" filepath="$PROJECT_DIR$/JavaProjects/GUI/BouncingBall/BouncingBall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 2/Change/Change.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 2/Change/Change.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 3/Coin/Coin.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 3/Coin/Coin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Com40S.iml" filepath="$PROJECT_DIR$/.idea/Com40S.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 4/DiscountDeterminer/DiscountDeterminer.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 4/DiscountDeterminer/DiscountDeterminer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 2/DragAndDrop/DragAndDrop.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 2/DragAndDrop/DragAndDrop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 1/DrawSquare/DrawSquare.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 1/DrawSquare/DrawSquare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Dummies/Dummies.iml" filepath="$PROJECT_DIR$/JavaProjects/Dummies/Dummies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 3/Election/Election.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 3/Election/Election.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 5/Evens/Evens.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 5/Evens/Evens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Exam/Exam.iml" filepath="$PROJECT_DIR$/JavaProjects/Exam/Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 1/Formatting/Formatting.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 1/Formatting/Formatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Friday/Framed/Framed.iml" filepath="$PROJECT_DIR$/JavaProjects/Friday/Framed/Framed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/GUI/GUI_Stopwatch/GUI_Stopwatch.iml" filepath="$PROJECT_DIR$/JavaProjects/GUI/GUI_Stopwatch/GUI_Stopwatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 4/GradeCheck/GradeCheck.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 4/GradeCheck/GradeCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 4/GuessTheNumber/GuessTheNumber.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 4/GuessTheNumber/GuessTheNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 1/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 1/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 3/HeronsFormula/HeronsFormula.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 3/HeronsFormula/HeronsFormula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Competition/Humidex/Humidex.iml" filepath="$PROJECT_DIR$/JavaProjects/Competition/Humidex/Humidex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 2/IntroVars/IntroVars.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 2/IntroVars/IntroVars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest/J1/J1.iml" filepath="$PROJECT_DIR$/Contest/J1/J1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest/J2/J2.iml" filepath="$PROJECT_DIR$/Contest/J2/J2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest/J3/J3.iml" filepath="$PROJECT_DIR$/Contest/J3/J3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest/J4/J4.iml" filepath="$PROJECT_DIR$/Contest/J4/J4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest/J5/J5.iml" filepath="$PROJECT_DIR$/Contest/J5/J5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Competition/KnuthUpArrow/KnuthUpArrow.iml" filepath="$PROJECT_DIR$/JavaProjects/Competition/KnuthUpArrow/KnuthUpArrow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 3/LenniesBailBond/LenniesBailBond.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 3/LenniesBailBond/LenniesBailBond.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 5/LoopsAndFiles/LoopsAndFiles.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 5/LoopsAndFiles/LoopsAndFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 5/MirrorArray/MirrorArray.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 5/MirrorArray/MirrorArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 5/NumbersSum/NumbersSum.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 5/NumbersSum/NumbersSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Competition/ParkingLot/ParkingLot.iml" filepath="$PROJECT_DIR$/JavaProjects/Competition/ParkingLot/ParkingLot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 5/PennyPitch/PennyPitch.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 5/PennyPitch/PennyPitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 5/PercentPassing/PercentPassing.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 5/PercentPassing/PercentPassing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 2/PizzaCost/PizzaCost.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 2/PizzaCost/PizzaCost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Friday/Pong_Shruti-Ariana/Pong_Shruti-Ariana.iml" filepath="$PROJECT_DIR$/JavaProjects/Friday/Pong_Shruti-Ariana/Pong_Shruti-Ariana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 5/Prompter/Prompter.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 5/Prompter/Prompter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 1/Robot/Robot.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 1/Robot/Robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 3/SimpleInterest/SimpleInterest.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 3/SimpleInterest/SimpleInterest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Competition/Skaters/Skaters.iml" filepath="$PROJECT_DIR$/JavaProjects/Competition/Skaters/Skaters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 2/Slope/Slope.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 2/Slope/Slope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/SpriteCollision/SpriteCollision.iml" filepath="$PROJECT_DIR$/JavaProjects/SpriteCollision/SpriteCollision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 4/SpriteCollision/SpriteCollision1.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 4/SpriteCollision/SpriteCollision1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Friday/SpriteCollision_S/SpriteCollision_S.iml" filepath="$PROJECT_DIR$/JavaProjects/Friday/SpriteCollision_S/SpriteCollision_S.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 4/StringEquality/StringEquality.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 4/StringEquality/StringEquality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 3/Sum/Sum.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 3/Sum/Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProjects/Unit 3/Unit1Labs/Unit1Labs.iml" filepath="$PROJECT_DIR$/JavaProjects/Unit 3/Unit1Labs/Unit1Labs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Contest/Wakkienunu/Wakkienunu.iml" filepath="$PROJECT_DIR$/Contest/Wakkienunu/Wakkienunu.iml" />
+    </modules>
+  </component>
+</project>

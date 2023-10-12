@@ -1,0 +1,14 @@
+	1. build a heap storing the frequent flyers and their mileage, using bottom-up heap construction
+	   use bottom up heap construction: O(n) time.
+	   remove min value log(n) times: O(1) time (log(n) times)
+	   total time: O(n) + O(log(n)) = O(n)
+
+	2. Construct a heap which tales O(n) time (bottom-up construction).
+	    Then call removeMin () k times, which takes O(k log n) time.
+	    Thus, the total time is O(n + log n)time
+
+	    use bottom up heap construction: O(n) time.
+	   delete root k-1 times: O(k log(n)) time. (Due to k downHeaps)
+	   return the root: O(1) time
+	   total time: O(n) + O(k log(n)) + O(1) = O(n + k log(n)).
+		If k = n in worst case: O(n + nlog(n)) = O(nlog(n)

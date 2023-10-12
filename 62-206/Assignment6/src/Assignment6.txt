@@ -1,0 +1,28 @@
+Assignment - 6
+1) 
+makeFirst(position<E> p) {
+Dnode<E> node = checkPosition(p);     //this will check position of element
+If(node != header.getNext())  {      //this will check the condition
+node.getPrevious().setNext(node.getNext());    //this will remove the current position
+node.getNext().setPrevious(node.getPrevious());
+node.setPrevious(header);     //this will take element to the first position
+node.setNext(header.getNext());
+header.setNext(p);        //here the p element comes at first position
+         }
+}
+2)
+RecursiveSearch(array[], a,high,low){
+If(low>high){
+Return -1; 
+If(a == array[mid]{    //if we find element then it stops recursion
+Return mid;
+}else if(a < array[mid]){
+  Return RecursiveSearch(array[],low,mid-1,a)     //search a from low to mid-1
+}else{ 
+ Return RecursiveSearch(array[],mid+1,high,a)    // search a from mid to high
+}
+
+3) when we make kn total accesses in an L of n elements. The maximum number of the elements accessed is n-1 because if
+ we selected one element from the list and accessed that element for one time. So, that element is going accessed for kn
+ times. The minimum number of the elements that access is 0 because when we select all n numbers, each element in the
+ list is accessed for every n times. So, every element is going to be accessed for k times.
