@@ -1,0 +1,62 @@
+What is the Capital City of Alberta?
+Calgary
+Edmonton
+Banff
+Lethbridge
+2
+What is the Capital City of British Columbia?
+Vitoria
+Vancouver
+Whistler
+Penticton
+1
+(3) What is the Capital City of Manitoba?
+Brandon
+Thompson
+Steinbach
+Winnipeg
+4
+What is the Capital City of New Brunswick?
+Saint John
+Fredericton
+Moncton
+Dieppe
+2
+What is the Capital City of Newfoundland and Labrador?
+Conception Bay South
+Mount Pearl
+St. John's
+Corner Brook
+3
+What is the Capital City of Nova Scotia?
+Cape Breton
+New Glasgow
+West Hants
+Halifax
+4
+What is the Capital City of Ontario?
+Toronto
+Ottawa
+Mississauga
+Hamilton
+1
+What is the Capital City of Quebec?
+Montreal
+Sherbrooke
+Quebec City
+Gatineau
+3
+What is the Capital City of Saskatchewan?
+Saskatoon
+Regina
+Weyburn
+Estevan
+2
+What is the Capital City of Yukon?
+Whitehorse
+Haines Junction
+Unorganized Yukon
+Destruction Bay
+1
+
+
